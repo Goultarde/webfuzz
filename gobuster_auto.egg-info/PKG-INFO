@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: gobuster-auto
+Version: 0.1.0
+Summary: Automatisation gobuster dir/vhost pour HackTheBox
+Requires-Python: >=3.10
