@@ -1,8 +1,0 @@
-pyproject.toml
-gobuster_auto/__init__.py
-gobuster_auto/main.py
-gobuster_auto.egg-info/PKG-INFO
-gobuster_auto.egg-info/SOURCES.txt
-gobuster_auto.egg-info/dependency_links.txt
-gobuster_auto.egg-info/entry_points.txt
-gobuster_auto.egg-info/top_level.txt
